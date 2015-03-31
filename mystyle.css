@@ -1,5 +1,3 @@
-<style>
-
 nav, footer {
 	clear: both;
 	color: #ffffff;
@@ -113,14 +111,14 @@ div.img a:hover img{
 } 
 
 
-.desc{
+#caption{
 	max-height: 300px;
 	max-width:  180px;
 	display: block;
-	font-size: 12px;
+	font-size: 15px;
 	padding-top: 20px;
 	padding-bottom: 20px;
-	margin-left: 80px;
+	margin-left: 40px;
 	text-align: center;
 }
 
@@ -147,7 +145,18 @@ background: #AEEEEE;
     margin-top: -3em;
 }
 
-</style>
+.duck_images{
+	float:left;
+	margin: 45px;
+}
+
+.duck {
+	float: left;
+	width: 250px;
+	height: 250px;
+}
+}
+
 
 
 
